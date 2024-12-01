@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Regístrate ahora",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "oN74hNg4Dk2AeC8_3ECQeA",
+  "Reference": "KGv91n5XPEq3kF4BdaYeaw/oN74hNg4Dk2AeC8_3ECQeA",
+  "ParentRef": "KGv91n5XPEq3kF4BdaYeaw/qTMSgc9BZUK9IJf5ZkZ4vA",
+  "Created": "2024-11-04T12:33:46.2492302Z",
+  "Updated": "2024-11-04T12:33:46.2492302Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

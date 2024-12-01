@@ -1,0 +1,14 @@
+﻿{
+  "Name": "NIFNIE",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Id": "UoilS7ZcfUiHoqJZ3RIGEw",
+  "Reference": "KGv91n5XPEq3kF4BdaYeaw/UoilS7ZcfUiHoqJZ3RIGEw",
+  "ParentRef": "KGv91n5XPEq3kF4BdaYeaw/vdbUadoQ_kO2kBk0QiEJcQ",
+  "Created": "2024-11-04T19:43:58.2776467Z",
+  "Updated": "2024-11-04T19:43:58.2776467Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="7jMwBbRXS0aAnr_prgT15A" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="acelerapyme.gob.es/registro-pyme" CVScreenId="7aa5332c-b381-406f-ae7c-afcef27a389d" DesignTimeRectangle="587, 711, 428, 57" DesignTimeScaleFactor="1.350000023841858" ElementType="InputBox" FullSelectorArgument="&lt;webctrl parentid='edit-pyme-data--goqvjwiO-aw' tag='DIV' visibleinnertext='Código CNAE*' /&gt;&lt;webctrl parentid='edit-pyme-data--*' tag='DIV' id='edit_cnae_code__*' /&gt;" FuzzyAccuracy="0.9" Guid="f95de40d-f29c-4cd6-b2a6-82f3e1227548" IsResponsive="True" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Registro pyme | Acelera pyme' /&gt;" SearchSteps="Selector" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="7aa5332c-b381-406f-ae7c-afcef27a389d" DesignTimeRectangle="587, 665, 172, 32" ElementType="Text" FullSelectorArgument="&lt;webctrl aria-label='  Código CNAE*' tag='LABEL' /&gt;" FuzzyAccuracy="0.91" Guid="0e3dfa27-c260-4273-9aea-ed42e2dd52a3" SearchSteps="Selector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="76f2efc48b3ddecc478031e15b44d9b5.png" xmlns="">0EkvuYhb760OhixBkRBfY0w</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

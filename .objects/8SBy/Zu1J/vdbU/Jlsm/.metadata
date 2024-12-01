@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Teléfono móvil",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Id": "JlsmCkUcxkmPIwj9syaP3A",
+  "Reference": "KGv91n5XPEq3kF4BdaYeaw/JlsmCkUcxkmPIwj9syaP3A",
+  "ParentRef": "KGv91n5XPEq3kF4BdaYeaw/vdbUadoQ_kO2kBk0QiEJcQ",
+  "Created": "2024-11-04T13:30:35.8452264Z",
+  "Updated": "2024-11-04T13:30:35.8452264Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="7kZBV96pg0CI3KGsNmSFHg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="acelerapyme.gob.es/registro-pyme" CVScreenId="552006f5-743b-4ac9-8a8b-a90239ba1d1e" DesignTimeRectangle="587, 614, 750, 57" DesignTimeScaleFactor="1.350000023841858" ElementType="DropDown" FullSelectorArgument="&lt;webctrl id='edit-position' tag='SELECT' /&gt;" FuzzyAccuracy="0.8" FuzzySelectorArgument="&lt;webctrl id='edit-position' tag='SELECT' type='' class='form-select form-control' /&gt;" Guid="9908c959-1eee-402e-b260-d97daa6b83a7" ImageBase64="" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Registro pyme | Acelera pyme' /&gt;" SearchSteps="Selector, FuzzySelector" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="552006f5-743b-4ac9-8a8b-a90239ba1d1e" DesignTimeRectangle="587, 567, 186, 33" ElementType="Text" FullSelectorArgument="&lt;webctrl aria-label='  Cargo (opcional)&amp;#xA;' tag='LABEL' /&gt;" FuzzyAccuracy="0.84" FuzzySelectorArgument="&lt;webctrl aria-label='  Cargo (opcional)&amp;#xA;' tag='LABEL' type='' class='' aaname='Cargo (opcional)' check:innerText='Cargo (opcional)' /&gt;" Guid="9fa2592f-2453-420c-ad02-d3f4e7376e5b" SearchSteps="Selector, FuzzySelector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="2e406060b38c9c03dabb132b6eb17216.png" xmlns="">0PHCmIGzJ00eQejVie9_6Nw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">SelectItem</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

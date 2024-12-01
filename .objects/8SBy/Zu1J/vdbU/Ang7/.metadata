@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Señor(1)",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "Ang7FNl_aUKgQ5K_9PD2Iw",
+  "Reference": "KGv91n5XPEq3kF4BdaYeaw/Ang7FNl_aUKgQ5K_9PD2Iw",
+  "ParentRef": "KGv91n5XPEq3kF4BdaYeaw/vdbUadoQ_kO2kBk0QiEJcQ",
+  "Created": "2024-11-05T04:01:44.7702109Z",
+  "Updated": "2024-11-05T04:01:44.7702109Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

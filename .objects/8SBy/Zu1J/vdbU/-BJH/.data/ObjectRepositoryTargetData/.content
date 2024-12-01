@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="YVrUS_LM706lNGStfd32kg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="acelerapyme.gob.es/registro-pyme" CVScreenId="6176e892-4d48-4e2e-b10c-612fe482d26f" DesignTimeRectangle="905, 715, 253, 33" DesignTimeScaleFactor="1.350000023841858" ElementType="Text" FullSelectorArgument="&lt;webctrl aria-label='  No deseo contestar&amp;#xA;' tag='LABEL' /&gt;" FuzzyAccuracy="0.8" FuzzySelectorArgument="&lt;webctrl aria-label='  No deseo contestar&amp;#xA;' tag='LABEL' type='' class='option' aaname='No deseo contestar' check:innerText='No deseo contestar' /&gt;" Guid="f5d4c0d5-b3b8-46d4-aa9e-dd65fe958c93" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Registro pyme | Acelera pyme' /&gt;" SearchSteps="Selector, FuzzySelector" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="6176e892-4d48-4e2e-b10c-612fe482d26f" DesignTimeRectangle="587, 669, 159, 32" ElementType="Text" FullSelectorArgument="&lt;webctrl parentid='edit-attend--wrapper-legend' tag='SPAN' /&gt;" FuzzyAccuracy="0.83" FuzzySelectorArgument="&lt;webctrl parentid='edit-attend--wrapper-legend' tag='SPAN' type='' class='fieldset-legend js-form-required form-required' aaname='Tratamiento' check:innerText='Tratamiento' /&gt;" Guid="0dcd33a9-f58a-408e-b22f-7b115d406750" SearchSteps="Selector, FuzzySelector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <TargetAnchorable.PointOffset>
+        <PointOffset X="-6" Y="-5" />
+      </TargetAnchorable.PointOffset>
+      <imageRef attrName="InformativeScreenshot" originalValue="328efaf79982b597ce29bd34cf974a66.png" xmlns="">0J_XtALQ2j064MiO4cLU-dw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

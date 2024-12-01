@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Nombre y apellidos",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Id": "TIszn81sv0q_Ag47VS5mTw",
+  "Reference": "KGv91n5XPEq3kF4BdaYeaw/TIszn81sv0q_Ag47VS5mTw",
+  "ParentRef": "KGv91n5XPEq3kF4BdaYeaw/vdbUadoQ_kO2kBk0QiEJcQ",
+  "Created": "2024-11-04T13:15:36.0162499Z",
+  "Updated": "2024-11-04T13:15:36.0162499Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

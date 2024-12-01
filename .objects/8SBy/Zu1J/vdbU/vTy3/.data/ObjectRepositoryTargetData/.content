@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="3w3CvYYNpEmG5Z8I8azQyw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="acelerapyme.gob.es/registro-pyme" CVScreenId="e248e962-72f7-4a79-8597-a3fa96de311e" CvElementArea="584, 721, 757, 59" CvType="InputBox" DesignTimeRectangle="587, 723, 750, 57" DesignTimeScaleFactor="1.350000023841858" ElementType="InputBox" FuzzySelectorArgument="&lt;webctrl tag='INPUT' type='text' class='form-text form-control' placeholder='Escribe el nombre legal de la empresa' aaname='Nombre o razón social de la empresa' /&gt;" Guid="2cf9113f-cd6d-4fd0-bd7b-ae0ec9d0d583" IsResponsive="True" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Registro pyme | Acelera pyme' /&gt;" SearchSteps="FuzzySelector, CV" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="e248e962-72f7-4a79-8597-a3fa96de311e" DesignTimeRectangle="587, 671, 417, 32" ElementType="Text" FullSelectorArgument="&lt;webctrl tag='LABEL' /&gt;" FuzzyAccuracy="0.84" FuzzySelectorArgument="&lt;webctrl tag='LABEL' type='' class='' check:innerText='Nombre o razón social de la empresa' /&gt;" Guid="c5cd4087-0d44-471a-92da-700a9641f8dc" SearchSteps="Selector, FuzzySelector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="94fa4b021e6b7cca0eb9c9bf2761a9f3.png" xmlns="">0vLHCDXcVf0asB3YFpRoJEA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="Ox4a3Wa4EU6wB2M1i-jKMw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="acelerapyme.gob.es/registro-pyme" CVScreenId="d03488cb-44cd-4a0b-9a6d-8982abf8d3a5" DesignTimeRectangle="587, 508, 750, 57" DesignTimeScaleFactor="1.350000023841858" ElementType="DropDown" FuzzyAccuracy="0.93" FuzzySelectorArgument="&lt;webctrl aria-labelledby='i4t-id-18' tag='SELECT' type='' class='form-select form-control' aaname='Inicio de la actividad' /&gt;" Guid="0b5fe00a-916b-4328-84a3-df73968f7941" ImageBase64="" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Registro pyme | Acelera pyme' /&gt;" SearchSteps="FuzzySelector" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="d03488cb-44cd-4a0b-9a6d-8982abf8d3a5" CvTextArea="585, 465, 236, 21" CvTextArgument="Inicio de la actividad" CvType="Text" DesignTimeRectangle="587, 461, 233, 33" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aria-label='  Inicio de la actividad&amp;#xA;' tag='LABEL' type='' class='' aaname='Inicio de la actividad' check:innerText='Inicio de la actividad' /&gt;" Guid="4fe1bf6c-255a-41c7-8116-1c3386706e8b" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="7ada17b1b7a3afb7a68b536f432b0939.png" xmlns="">0muA7M2_amEebw9mapD9nmw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">SelectItem</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

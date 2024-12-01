@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="4HUKdECRiU2j0Ounq4OQ7g" Reference="KGv91n5XPEq3kF4BdaYeaw/K555JYvGAUCpRmtG8b0cZg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="acelerapyme.gob.es/registro-pyme" CVScreenId="57f88710-916e-425a-a942-40740b58717e" DesignTimeRectangle="587, 732, 1001, 57" DesignTimeScaleFactor="1.350000023841858" ElementType="DropDown" FullSelectorArgument="&lt;webctrl aria-labelledby='i4t-id-17' tag='SELECT' innertext='*' /&gt;" Guid="64a5a3e9-7b07-44c8-96b8-8ad0fee4a0dc" ImageBase64="" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Registro pyme | Acelera pyme' /&gt;" SearchSteps="Selector" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="57f88710-916e-425a-a942-40740b58717e" CvTextArea="585, 690, 186, 25" CvTextArgument="Soy autónomo/a" CvType="Text" DesignTimeRectangle="587, 686, 184, 32" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aria-label='  Soy autónomo/a&amp;#xA;' tag='LABEL' type='' class='' aaname='Soy autónomo/a' check:innerText='Soy autónomo/a' /&gt;" Guid="a6b97eaf-48b5-4b99-8d29-8138fe257f8f" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="e29131052d00a2f0a770dc5a86187d5b.png" xmlns="">02MhDZ3BhN0K1CUlASnNW9A</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

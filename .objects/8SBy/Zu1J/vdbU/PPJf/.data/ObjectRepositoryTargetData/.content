@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="uj3LwWmN5kuyZrwqr2x9zw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="acelerapyme.gob.es/registro-pyme" CVScreenId="0b00ca68-8859-4ae7-aa9a-db0985c6f4b8" DesignTimeRectangle="1428, 790, 160, 59" DesignTimeScaleFactor="1.350000023841858" ElementType="Button" FullSelectorArgument="&lt;webctrl id='edit-actions-wizard-next' tag='INPUT' /&gt;" FuzzyAccuracy="0.79" FuzzySelectorArgument="&lt;webctrl id='edit-actions-wizard-next' tag='INPUT' type='submit' class='webform-button--next button js-form-submit form-submit btn btn-primary' aaname='Continuar' check:text='Continuar' /&gt;" Guid="8b031f59-2f9c-4c70-914a-44ee90e40ca0" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Registro pyme | Acelera pyme' /&gt;" SearchSteps="Selector, FuzzySelector" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="06e117f311fe1694dd013d0e477a328c.png" xmlns="">0y8lurq0gmkytx0KEhpWpOg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

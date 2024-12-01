@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="2FKesorM8EKMkqCN27JDyQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="acelerapyme.gob.es/registro-pyme" CVScreenId="364ea33e-e0d0-4d41-a6ce-436331304508" DesignTimeRectangle="752, 715, 105, 33" DesignTimeScaleFactor="1.350000023841858" ElementType="Text" FullSelectorArgument="&lt;webctrl aria-label='  Señor&amp;#xA;' tag='LABEL' /&gt;" FuzzyAccuracy="0.86" FuzzySelectorArgument="[string.Format(&quot;&lt;webctrl tag='LABEL' type='' class='option' aaname='{0}' check:innerText='Señor' /&gt;&quot;, in_Gender)]" Guid="a5a85fbd-f6ff-4256-9ab0-1e6f1f6de98d" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Registro pyme | Acelera pyme' /&gt;" SearchSteps="Selector, FuzzySelector" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="364ea33e-e0d0-4d41-a6ce-436331304508" DesignTimeRectangle="587, 669, 159, 32" ElementType="Text" FullSelectorArgument="&lt;webctrl parentid='edit-attend--wrapper-legend' tag='SPAN' /&gt;" FuzzyAccuracy="0.8" FuzzySelectorArgument="&lt;webctrl parentid='edit-attend--wrapper-legend' tag='SPAN' type='' class='fieldset-legend js-form-required form-required' aaname='Tratamiento' check:innerText='Tratamiento' /&gt;" Guid="46cc4694-b771-443b-8c38-b8c5b939f8cf" SearchSteps="Selector, FuzzySelector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="f8114899a4951394a8099169bf6f21df.png" xmlns="">0YUHTr0gkw0qAbwQEpwGgXw</imageRef>
+    </TargetAnchorable>
+    <scg:List x:TypeArguments="ObjectRepositoryVariableData" x:Key="Variables" Capacity="1">
+      <ObjectRepositoryVariableData IsVariable="False" Name="in_Gender" />
+    </scg:List>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

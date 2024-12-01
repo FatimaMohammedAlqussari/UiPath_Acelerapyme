@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Código postal",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Id": "2N_AYNTPFEu3DJ0axFuSpA",
+  "Reference": "KGv91n5XPEq3kF4BdaYeaw/2N_AYNTPFEu3DJ0axFuSpA",
+  "ParentRef": "KGv91n5XPEq3kF4BdaYeaw/vdbUadoQ_kO2kBk0QiEJcQ",
+  "Created": "2024-11-05T07:19:38.8844728Z",
+  "Updated": "2024-11-05T07:19:38.8844728Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

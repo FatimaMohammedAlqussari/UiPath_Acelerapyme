@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="Iq7Vx8lZoUOR6k-5rlvXyw" Reference="KGv91n5XPEq3kF4BdaYeaw/2N_AYNTPFEu3DJ0axFuSpA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="acelerapyme.gob.es/registro-pyme" CVScreenId="24a029d3-e6ea-4933-bd90-e8ff9754490a" DesignTimeRectangle="0, 0, 0, 0" DesignTimeScaleFactor="1.350000023841858" ElementType="InputBox" FullSelectorArgument="&lt;webctrl name='postal_code' tag='INPUT' type='text' placeholder='Escribe el código postal' /&gt;" FuzzyAccuracy="0.89" FuzzySelectorArgument="&lt;webctrl name='postal_code' tag='INPUT' type='text' placeholder='Escribe el código postal' class='form-text required form-control' aaname='Código postal' /&gt;" Guid="22ffb91f-a4be-471d-80d5-fcd8706c40c8" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Registro pyme | Acelera pyme' /&gt;" SearchSteps="Selector, FuzzySelector" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="f5d996e70edcab707a4ae83fb952e5e8.png" xmlns="">0NWty5iSAOka_fGu2sQKBtA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

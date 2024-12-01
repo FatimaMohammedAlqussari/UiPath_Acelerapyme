@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="SsiuCggICkW2o9uA0K8ihw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="acelerapyme.gob.es/registro-pyme" CVScreenId="526e7cf0-1e5a-4f00-995c-7509215051b7" DesignTimeRectangle="587, 478, 500, 57" DesignTimeScaleFactor="1.350000023841858" ElementType="InputBox" FullSelectorArgument="&lt;webctrl name='nif' tag='INPUT' type='text' /&gt;" FuzzyAccuracy="0.86" FuzzySelectorArgument="&lt;webctrl name='nif' tag='INPUT' type='text' class='form-text required form-control' placeholder='Escribe el NIF/NIE' /&gt;" Guid="c4b54ce3-2daf-472e-a8f0-de1e73ad47a1" IsResponsive="True" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Registro pyme | Acelera pyme' /&gt;" SearchSteps="Selector, FuzzySelector" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="526e7cf0-1e5a-4f00-995c-7509215051b7" DesignTimeRectangle="587, 426, 106, 32" ElementType="Text" FullSelectorArgument="&lt;webctrl aria-label='  NIF/NIE&amp;#xA;' tag='LABEL' /&gt;" FuzzyAccuracy="0.79" FuzzySelectorArgument="&lt;webctrl aria-label='  NIF/NIE&amp;#xA;' tag='LABEL' type='' class='js-form-required form-required' aaname='NIF/NIE' check:innerText='NIF/NIE' /&gt;" Guid="f469e05e-46e2-4d6c-943c-8d96c3a71fb2" SearchSteps="Selector, FuzzySelector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="f87fba7aad264c0edf327f83b4121a16.png" xmlns="">0Wcd1YVJABEmd0pHg8crUFQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

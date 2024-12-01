@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="QqtYsojuQUCUmSjqYbU3Fg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="acelerapyme.gob.es/registro-pyme" CVScreenId="6176e892-4d48-4e2e-b10c-612fe482d26f" DesignTimeRectangle="587, 715, 116, 33" DesignTimeScaleFactor="1.350000023841858" ElementType="Text" FullSelectorArgument="&lt;webctrl tag='LABEL' /&gt;" FuzzyAccuracy="0.81" FuzzySelectorArgument="&lt;webctrl tag='LABEL' type='' class='option' aaname='Señora' check:innerText='Señora' /&gt;" Guid="23166e64-fb75-4864-920f-731a52be6b47" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Registro pyme | Acelera pyme' /&gt;" SearchSteps="Selector, FuzzySelector" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="6176e892-4d48-4e2e-b10c-612fe482d26f" CvTextArea="584, 674, 157, 21" CvTextArgument="Tratamiento *" CvType="Text" DesignTimeRectangle="587, 669, 159, 32" ElementType="Text" FullSelectorArgument="&lt;webctrl parentid='edit-attend--wrapper-legend' tag='SPAN' /&gt;" FuzzyAccuracy="0.84" FuzzySelectorArgument="&lt;webctrl parentid='edit-attend--wrapper-legend' tag='SPAN' type='' class='fieldset-legend js-form-required form-required' aaname='Tratamiento' check:innerText='Tratamiento' /&gt;" Guid="36214cc1-4dc8-4cab-a25e-407d4cc34eaa" SearchSteps="Selector, FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <TargetAnchorable.PointOffset>
+        <PointOffset X="-6" Y="-1" />
+      </TargetAnchorable.PointOffset>
+      <imageRef attrName="InformativeScreenshot" originalValue="95a4a159c398c444aa259a75d903d274.png" xmlns="">0vm2v4Y1cr02ew6wks4VYkg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

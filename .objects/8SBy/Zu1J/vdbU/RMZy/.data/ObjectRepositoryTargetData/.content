@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="KtkOvgGBmEuoQSabThmiIQ" Reference="KGv91n5XPEq3kF4BdaYeaw/RMZydf4-U0CtCL9EFkC5SA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="acelerapyme.gob.es/registro-pyme" CVScreenId="40f67e07-37cb-47ba-b5bf-fedbe063b2af" DesignTimeRectangle="587, 580, 116, 33" DesignTimeScaleFactor="1.350000023841858" ElementType="Text" FuzzyAccuracy="0.95" FuzzySelectorArgument="[string.Format(&quot;&lt;webctrl tag='LABEL' aria-role='radio' class='option' visibleinnertext='{0}' /&gt;&quot;, in_Gender)]" Guid="b10a6090-52de-4986-97fd-01861bde84ef" ImageBase64="" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Registro pyme | Acelera pyme' /&gt;" SearchSteps="FuzzySelector" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="a9836f4760ad6045cc763916c402195a.png" xmlns="">0dKMcEYZzIUym2Rz2r6yHbQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+    <scg:List x:TypeArguments="ObjectRepositoryVariableData" x:Key="Variables" Capacity="1">
+      <ObjectRepositoryVariableData DefaultValue="Señora" Name="in_Gender" />
+    </scg:List>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="2AwdYIZ8hE-OzEdRC7YC6w" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="acelerapyme.gob.es/registro-pyme" CVScreenId="ba3c7469-ce4f-4ddf-bc1d-542265eb909c" DesignTimeRectangle="587, 590, 500, 57" DesignTimeScaleFactor="1.350000023841858" ElementType="InputBox" FullSelectorArgument="&lt;webctrl id='edit-mail' tag='INPUT' /&gt;" FuzzyAccuracy="0.84" FuzzySelectorArgument="&lt;webctrl id='edit-mail' tag='INPUT' type='text' class='form-text required form-control' placeholder='nombre@contacto.com' /&gt;" Guid="2119d8d3-0718-434c-acc1-d28ea466ce28" IsResponsive="True" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Registro pyme | Acelera pyme' /&gt;" SearchSteps="Selector, FuzzySelector" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="ba3c7469-ce4f-4ddf-bc1d-542265eb909c" DesignTimeRectangle="587, 538, 230, 32" ElementType="Text" FullSelectorArgument="&lt;webctrl aria-label='  Correo electrónico&amp;#xA;' tag='LABEL' /&gt;" FuzzyAccuracy="0.79" FuzzySelectorArgument="&lt;webctrl aria-label='  Correo electrónico&amp;#xA;' tag='LABEL' type='' class='js-form-required form-required' aaname='Correo electrónico' check:innerText='Correo electrónico' /&gt;" Guid="b3cce9d1-cbc1-495a-b03e-3dd66fabfd4d" SearchSteps="Selector, FuzzySelector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="4d46e7b2faa23dc9e4dd6346b072d689.png" xmlns="">0JN0meLI4yEC1trp6Ddpuug</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

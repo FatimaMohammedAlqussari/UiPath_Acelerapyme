@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="thaNvi1tuUm0TU0ghTgeZQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="acelerapyme.gob.es/registro-pyme" CVScreenId="377c2109-cf9f-43d1-8a10-636aa0334585" DesignTimeRectangle="587, 488, 500, 57" DesignTimeScaleFactor="1.350000023841858" ElementType="DropDown" FullSelectorArgument="&lt;webctrl parentid='edit-pyme-data--l1oSvjpOxgk' tag='DIV' visibleinnertext='Comunidad*' /&gt;&lt;webctrl tag='SELECT' parentclass='shs-widget-container' /&gt;" FuzzyAccuracy="0.86" FuzzySelectorArgument="&lt;webctrl parentid='edit-pyme-data--l1oSvjpOxgk' tag='DIV' visibleinnertext='Comunidad*' /&gt;&lt;webctrl tag='SELECT' parentclass='shs-widget-container' /&gt;" Guid="212b6a8b-f506-4130-b01b-34f5d08d6d78" ImageBase64="" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Registro pyme | Acelera pyme' /&gt;" SearchSteps="Selector, FuzzySelector" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="377c2109-cf9f-43d1-8a10-636aa0334585" CvTextArea="585, 445, 381, 23" CvTextArgument="Comunidad/Provincia/Localidad *" CvType="Text" DesignTimeRectangle="587, 441, 385, 33" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aria-label='  Comunidad/Provincia/Localidad&amp;#xA;' tag='LABEL' type='' class='js-form-required form-required' aaname='Comunidad/Provincia/Localidad' check:innerText='Comunidad/Provincia/Localidad' /&gt;" Guid="216ec132-6b1e-4e96-953c-e1cacca426b7" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="0e642891305e2371a687f05b50261eb8.png" xmlns="">0StnzygmqX0yLzeNdLp-uYQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

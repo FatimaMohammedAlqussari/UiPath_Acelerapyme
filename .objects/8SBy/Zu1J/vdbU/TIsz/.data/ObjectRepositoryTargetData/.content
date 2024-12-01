@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="6-SW52eKR06cQl8yhsBbLQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="acelerapyme.gob.es/registro-pyme" CVScreenId="0b1f3b28-4f36-4184-b6d7-f6357a687729" DesignTimeRectangle="587, 573, 750, 57" DesignTimeScaleFactor="1.350000023841858" ElementType="InputBox" FuzzyAccuracy="0.83" FuzzySelectorArgument="[string.Format(&quot;&lt;webctrl id='edit-name-lastname' tag='INPUT' type='text' class='form-text required form-control' placeholder='Escribe aquí el nombre y los apellidos' aaname='{0}' /&gt;&quot;, in_Name)]" Guid="3ee883e8-62f6-4da7-b170-9a30574a0b50" IsResponsive="True" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Registro pyme | Acelera pyme' /&gt;" SearchSteps="FuzzySelector" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="0b1f3b28-4f36-4184-b6d7-f6357a687729" DesignTimeRectangle="587, 521, 240, 32" ElementType="Text" FullSelectorArgument="&lt;webctrl aria-label='  Nombre y apellidos&amp;#xA;' tag='LABEL' /&gt;" FuzzyAccuracy="0.81" FuzzySelectorArgument="&lt;webctrl aria-label='  Nombre y apellidos&amp;#xA;' tag='LABEL' type='' class='js-form-required form-required' aaname='Nombre y apellidos' check:innerText='Nombre y apellidos' /&gt;" Guid="baadcd73-fae8-4385-ad6e-7896b1389011" SearchSteps="Selector, FuzzySelector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="0aba51bea69ce3a3de2b55b1bad75a50.png" xmlns="">0eVM_69_Oqk6JNib_R8R6RQ</imageRef>
+    </TargetAnchorable>
+    <scg:List x:TypeArguments="ObjectRepositoryVariableData" x:Key="Variables" Capacity="1">
+      <ObjectRepositoryVariableData IsVariable="False" Name="in_Name" />
+    </scg:List>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

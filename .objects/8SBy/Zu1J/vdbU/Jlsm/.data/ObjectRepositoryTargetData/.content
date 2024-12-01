@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="au7aAGuVFESoq8J6bex2Lw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="acelerapyme.gob.es/registro-pyme" CVScreenId="80a1a5b1-42b9-4ba0-a296-de29579552ee" DesignTimeRectangle="587, 467, 500, 57" DesignTimeScaleFactor="1.350000023841858" ElementType="InputBox" FullSelectorArgument="&lt;webctrl id='edit-phone' tag='INPUT' /&gt;" FuzzyAccuracy="0.81" FuzzySelectorArgument="&lt;webctrl id='edit-phone' tag='INPUT' type='tel' class='form-tel required form-control' placeholder='Escribe aquí el teléfono de contacto' /&gt;" Guid="3af63198-aa26-4f5c-be4b-e4f91999beb4" IsResponsive="True" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Registro pyme | Acelera pyme' /&gt;" SearchSteps="Selector, FuzzySelector" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="80a1a5b1-42b9-4ba0-a296-de29579552ee" DesignTimeRectangle="587, 420, 187, 33" ElementType="Text" FullSelectorArgument="&lt;webctrl aria-label='  Teléfono móvil&amp;#xA;' tag='LABEL' /&gt;" FuzzyAccuracy="0.79" FuzzySelectorArgument="&lt;webctrl aria-label='  Teléfono móvil&amp;#xA;' tag='LABEL' type='' class='js-form-required form-required' aaname='Teléfono móvil' check:innerText='Teléfono móvil' /&gt;" Guid="77e8d23c-6b17-400e-858c-68be95841ee0" SearchSteps="Selector, FuzzySelector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="757ee7d6a3a85943dead44d41c617a27.png" xmlns="">0e_PSrYaBQk-nob1wPLGktA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

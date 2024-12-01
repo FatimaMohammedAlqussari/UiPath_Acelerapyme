@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Señora",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "KcVRlS12bk6yXfC6I5AUAA",
+  "Reference": "KGv91n5XPEq3kF4BdaYeaw/KcVRlS12bk6yXfC6I5AUAA",
+  "ParentRef": "KGv91n5XPEq3kF4BdaYeaw/vdbUadoQ_kO2kBk0QiEJcQ",
+  "Created": "2024-11-05T04:03:44.1690339Z",
+  "Updated": "2024-11-05T04:03:44.1690339Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

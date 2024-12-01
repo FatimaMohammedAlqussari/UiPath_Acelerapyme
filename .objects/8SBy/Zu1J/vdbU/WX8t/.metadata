@@ -1,0 +1,14 @@
+﻿{
+  "Name": "ComunidadProvinciaLoc…",
+  "Type": "Element",
+  "TaxonomyType": "Dropdown",
+  "Id": "WX8tCiTS_U6ha9A1l17wXA",
+  "Reference": "KGv91n5XPEq3kF4BdaYeaw/WX8tCiTS_U6ha9A1l17wXA",
+  "ParentRef": "KGv91n5XPEq3kF4BdaYeaw/vdbUadoQ_kO2kBk0QiEJcQ",
+  "Created": "2024-11-04T19:51:52.204737Z",
+  "Updated": "2024-11-04T19:51:52.204737Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
